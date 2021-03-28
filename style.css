@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  .content{
+      padding : 12px 12px;
+  }
+  
+  .container{
+      width:1240px;
+      width:100%;
+      padding-left:15px;
+      padding-right:15px;
+      margin-right:auto;
+      margin-left:15px;
+  }
+
+  .row{
+      display:flex;
+      flex-wrap: wrap;
+      margin-right: -15px;
+      margin-left: -15px;
+  }
+
+  
+  .section{
+      padding-right:15px;
+      padding-left:15px;
+  }
+
+  .banner-left{
+      height: 500px;
+      width: 1025px;
+      padding-right: 15px;
+  }
+
+  .banner-right{
+      padding-right: 13px;
+  }
+
+
+
+  img{
+    vertical-align: middle;
+  }
+
+  .below{
+      width: 30%;
+      position: relative;
+      padding-right: 15px;
+      padding-left: 15px;
+    
+  }
+
+  .d-none{
+      display:none;
+  }
